@@ -1,6 +1,6 @@
 # Compress Image
 
-Compress Image adalah aplikasi web gratis yang memungkinkan Anda mengompres gambar secara efisien tanpa mengurangi kualitas secara signifikan. Aplikasi ini mendukung berbagai format gambar populer dan dirancang untuk memudahkan pengguna dalam mengurangi ukuran file gambar untuk kebutuhan web, pengiriman email, atau penyimpanan.
+Compress Image adalah aplikasi web sumber terbuka yang memungkinkan Anda mengompres gambar secara efisien tanpa mengurangi kualitas secara signifikan. Aplikasi ini dirancang untuk memudahkan pengguna dalam mengurangi ukuran file gambar untuk kebutuhan web, pengiriman email, atau penyimpanan.
 🌐 Tautan Aplikasi
 
 👉 https://apps.sangia.org/tools/compress/compress_image
@@ -36,7 +36,10 @@ Compress Image adalah aplikasi web gratis yang memungkinkan Anda mengompres gamb
 
 📄 Lisensi
 
-Aplikasi ini dilisensikan di bawah MIT License, yang memungkinkan penggunaan, penyalinan, pengubahan, dan distribusi bebas dengan syarat tertentu.
+Aplikasi ini dilisensikan di bawah GNU General Public License v3.0.
+
+Anda bebas untuk menggunakan, memodifikasi, dan mendistribusikan ulang perangkat lunak ini, asalkan Anda mematuhi ketentuan lisensi tersebut. Pastikan untuk menyertakan salinan lisensi ini dalam setiap distribusi ulang.
+Gist
 🤝 Kontribusi
 
 Kontribusi sangat dihargai! Jika Anda ingin berkontribusi, silakan fork repositori ini dan ajukan pull request dengan perubahan Anda.
@@ -44,4 +47,7 @@ Kontribusi sangat dihargai! Jika Anda ingin berkontribusi, silakan fork reposito
 
 Untuk pertanyaan atau saran, silakan hubungi kami melalui email: support@sangia.org
 
-Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan spesifik mengenai aplikasi ini, jangan ragu untuk bertanya!
+Catatan: Untuk mematuhi ketentuan lisensi GPL-3.0, disarankan untuk menyertakan salinan lengkap lisensi dalam file LICENSE di repositori Anda. Selain itu, menambahkan pemberitahuan lisensi di setiap file sumber dapat membantu menjaga kejelasan lisensi saat file digunakan secara terpisah.
+Open Source Stack Exchange
+
+Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan spesifik mengenai aplikasi ini, jangan ragu untuk bertanya
